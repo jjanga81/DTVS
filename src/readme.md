@@ -5,7 +5,6 @@
 - 모든 주요 데스크탑 및 모바일 플랫폼에서 HTML5를 지원하는 모든 주요 브라우저에서 작동합니다.
 - 웹 브라우저 내에서 CAD 모델을 조회하고 상호작용할 수 있는 무설치(Zero-Install) 클라이언트 측 구성 요소입니다.
 - 변환된 HMF 파일에 포함된 3D 형상의 지오메트리 데이터는 클라이언트의 웹 브라우저로 모두 전송되어 WebGL을 통해 렌더링되며, 사용자의 상호작용 처리 성능이 향상됩니다.
-
 # GetStart
 JS(JavaScript)에서 구성하기
 - 기본 제공되는 index.html 파일에 대한 설명입니다.
@@ -73,5 +72,5 @@ require({
 2. 구성된 Html 페이지를 Web Server에서 동작 합니다.
 <img width="701" alt="image" src="https://github.com/user-attachments/assets/3eb26816-2091-46f7-874b-5255300ca33f">
 
-# Funding
+#Funding
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2022-0-00431, Development of open service platform and creation technology of federated intelligent digital twin, 100%).
